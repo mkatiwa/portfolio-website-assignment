@@ -1,0 +1,13 @@
+*{
+    margin: 1;
+    padding: ;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: white;
+    color: black;
+}
