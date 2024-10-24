@@ -33,3 +33,40 @@ header{
     margin-right: 20px;
 }
 
+.navbar-brand {
+    color: blue;
+}
+
+.navbar-nav.nav-link {
+    color: blue;
+}
+
+.navbar-toggler {
+    background-color: blue;
+}
+
+footer {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    footer {
+        position: static;
+    }
+}
+
+/* Responsive design for smaller screens */
+@media screen and (max-width: 600px) {
+    /* Stack the menu items vertically instead of horizontally */
+    #navbarSupportedContent.navbar-nav.nav-link {
+        display: block;
+    }
+}
+
+
