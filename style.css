@@ -6,8 +6,30 @@
 }
 html{
     scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+    transition: background-color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
+
 }
 body{
     background: white;
     color: black;
 }
+
+header{
+    background: #333;
+    color:black;
+    padding: 20px;
+    text-align: center;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.navbar li{
+    margin-right: 20px;
+}
+
