@@ -13,11 +13,11 @@ Here is where you can get my experiences
 you can get my work here
 
 ### Skills
-1 HTML
-2 CSS
-3 JavaScript
-4 BootStrap
-5 React.js
+- HTML
+- CSS
+- JavaScript
+- BootStrap
+- React.js
 
 ### contact
 reach out to me
